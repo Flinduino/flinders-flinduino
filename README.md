@@ -1,5 +1,5 @@
 # Flinders Unversity - Flinduino
-The Flinduino is a microcontroller development board based on the DP32 by Digilent.
+The Flinduino is a microcontroller development board based on the DP32 by Digilent, designed and built by Flinders University.
 
 ## Features
 + Arduino Uno form factor
